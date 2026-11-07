@@ -39,4 +39,4 @@ See `docs/CONCEPTS.md` for a C/C++ vs Rust comparison of each bug.
 
 ## License
 
-[MIT](LICENSE) © 2026 Dagmawi Melaku
+**Permission required.** © 2026 Dagmawi Melaku. You need my written permission before using, copying, or modifying this code, and any approved use must credit me with a link to this repository. Viewing, forking on GitHub, and running it to judge or review a submission are allowed without asking. To ask, [open an issue](../../issues/new). See [LICENSE](LICENSE) for the full terms.

@@ -3,7 +3,7 @@ name = "memorysafe"
 version = "1.0.0"
 edition = "2021"
 description = "A systems-programming demonstrator: ownership, borrowing, safe data structures, error handling, and fearless concurrency in Rust."
-license = "MIT"
+license-file = "LICENSE"
 authors = ["Dagmawi Melaku"]
 repository = "https://github.com/dagmawi1-lang/memorysafe"
 
