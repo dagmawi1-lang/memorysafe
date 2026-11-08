@@ -2,6 +2,14 @@
 
 MemorySafe is a library and walkthrough showing how Rust removes whole classes of memory bugs (use-after-free, double free, dangling pointers, buffer overflows, data races, null dereferences) **at compile time and without a garbage collector**. The crate contains **zero `unsafe` code**, enforced by `#![forbid(unsafe_code)]`.
 
+## My role & contributions
+
+**Solo developer · AI-assisted**
+
+- Picked which memory-safety bugs to demonstrate and wrote compile-fail tests proving Rust rejects them
+- Built a stack, ring buffer, and arena graph with zero unsafe code
+- Hit a real borrow-checker error (iterator invalidation) in my own demo and documented the fix
+
 **Language:** Rust (2021 edition, standard library only)
 **Shows:** ownership and borrowing, lifetimes, safe data structures, RAII, error handling, and concurrency.
 
